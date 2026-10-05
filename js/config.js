@@ -1,6 +1,6 @@
 // Edit these values after you deploy the backend (see README.md).
 window.HOA_CONFIG = {
-  hoaName: 'Maple Ridge Homeowners Association',
+  hoaName: 'Hidden Spring Home Owners Association',
   apiBaseUrl: 'https://YOUR_API_ID.execute-api.us-east-1.amazonaws.com',
 
   // Cognito user pool app client used for board/admin sign-in
